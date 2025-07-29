@@ -1,0 +1,99 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Amareshwar Manaji/Desktop/vlsi/ha
+vha
+!s110 1721815401
+!i10b 1
+!s100 9@cBI=;^A0GNDQIob=I=<1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IaH=fiHlVl68:f<oUXfW233
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1721814918
+8half_addd.v
+Fhalf_addd.v
+!i122 1
+Z3 L0 1 6
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1721815400.000000
+!s107 half_addd.v|half_add_tb.v|
+!s90 -reportprogress|300|half_add_tb.v|
+!i113 1
+Z5 tCvgOpt 0
+vha_beh
+!s110 1721817971
+!i10b 1
+!s100 31`HJK>[6n<cQgJ^ZA6k>2
+R1
+IKFVEJFOC[X`h2[UA3Y]Pg1
+R2
+R0
+w1721817959
+8ha_beh.v
+Fha_beh.v
+!i122 6
+L0 1 10
+R4
+r1
+!s85 0
+31
+!s108 1721817971.000000
+!s107 ha_beh.v|ha_beh_tb.v|
+!s90 -reportprogress|300|ha_beh_tb.v|
+!i113 1
+R5
+vha_s
+Z6 !s110 1721818818
+!i10b 1
+!s100 ]S9:oV6<NaQ9QbPPRi<;Y2
+R1
+IYXbYG@OB`_mnGBo3Fg1ET1
+R2
+R0
+w1721818158
+8ha_s.v
+Fha_s.v
+!i122 8
+R3
+R4
+r1
+!s85 0
+31
+Z7 !s108 1721818818.000000
+!s107 ha_s.v|ha_s_tb.v|
+Z8 !s90 -reportprogress|300|ha_s_tb.v|
+!i113 1
+R5
+vtb
+R6
+!i10b 1
+!s100 k?Jf]Fbk3Pc_:4L;YR@D03
+R1
+IBDoiD1G6=`3SKoZ:H45<M1
+R2
+R0
+w1721818074
+8ha_s_tb.v
+Fha_s_tb.v
+!i122 8
+L0 2 12
+R4
+r1
+!s85 0
+31
+R7
+Z9 !s107 ha_s.v|ha_s_tb.v|
+R8
+!i113 1
+R5
