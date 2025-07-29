@@ -1,0 +1,166 @@
+# Reading pref.tcl
+cd {}C:\Users\Vinod M\OneDrive\Desktop\New folder (2)\memory project\back door
+# extra characters after close-brace
+cd {C:\Users\Vinod M\OneDrive\Desktop\New folder (2)\memory project\back door}
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:54:58 on Jan 19,2025
+# vlog -reportprogress 300 bd.v 
+# -- Compiling module memory
+# ** Error (suppressible): bd.v(7): (vlog-2388) 'addr_i' already declared in this scope (memory) at bd.v(6).
+# End time: 16:54:58 on Jan 19,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog bd.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:55:56 on Jan 19,2025
+# vlog -reportprogress 300 bd.v 
+# -- Compiling module memory
+# 
+# Top level modules:
+# 	memory
+# End time: 16:55:56 on Jan 19,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:55:56 on Jan 19,2025
+# vlog -reportprogress 300 bd_tb.v 
+# ** Error: bd_tb.v(1): Cannot open `include file "memory.v".
+# -- Compiling module tb
+# End time: 16:55:57 on Jan 19,2025, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 3
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog bd_tb.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:57:23 on Jan 19,2025
+# vlog -reportprogress 300 bd.v 
+# -- Compiling module memory
+# 
+# Top level modules:
+# 	memory
+# End time: 16:57:23 on Jan 19,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:57:23 on Jan 19,2025
+# vlog -reportprogress 300 bd_tb.v 
+# -- Compiling module memory
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 16:57:23 on Jan 19,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 16:57:23 on Jan 19,2025
+# Loading work.tb
+# Loading work.memory
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$value$plusargs'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb File: bd_tb.v Line: 29
+# ** Error: (vsim-3043) Unresolved reference to 'rst_logic'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb File: bd_tb.v Line: 26
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 4
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:59:59 on Jan 19,2025
+# vlog -reportprogress 300 bd.v 
+# -- Compiling module memory
+# 
+# Top level modules:
+# 	memory
+# End time: 16:59:59 on Jan 19,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:59:59 on Jan 19,2025
+# vlog -reportprogress 300 bd_tb.v 
+# -- Compiling module memory
+# -- Compiling module tb
+# ** Error: (vlog-13069) bd_tb.v(93): near "endmodule": syntax error, unexpected endmodule.
+# End time: 16:59:59 on Jan 19,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 3
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog bd_tb.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:00:14 on Jan 19,2025
+# vlog -reportprogress 300 bd.v 
+# -- Compiling module memory
+# 
+# Top level modules:
+# 	memory
+# End time: 17:00:14 on Jan 19,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:00:14 on Jan 19,2025
+# vlog -reportprogress 300 bd_tb.v 
+# -- Compiling module memory
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 17:00:14 on Jan 19,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 16:57:23 on Jan 19,2025
+# Loading work.tb
+# Loading work.memory
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$value$plusargs'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb File: bd_tb.v Line: 29
+# testcase=
+# ** Note: $finish    : bd_tb.v(53)
+#    Time: 215 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at bd_tb.v line 53
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:07:58 on Jan 19,2025
+# vlog -reportprogress 300 bd.v 
+# -- Compiling module memory
+# 
+# Top level modules:
+# 	memory
+# End time: 17:07:58 on Jan 19,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:07:58 on Jan 19,2025
+# vlog -reportprogress 300 bd_tb.v 
+# -- Compiling module memory
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 17:07:58 on Jan 19,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 17:08:03 on Jan 19,2025, Elapsed time: 0:10:40
+# Errors: 2, Warnings: 2
+# vsim tb "+testcase=WRITE_FD_READ_BD" 
+# Start time: 17:08:04 on Jan 19,2025
+# Loading work.tb
+# Loading work.memory
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$value$plusargs'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb File: bd_tb.v Line: 29
+# testcase=WRITE_FD_READ_BD
+# ** Note: $finish    : bd_tb.v(52)
+#    Time: 875 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at bd_tb.v line 52
+# End time: 17:11:22 on Jan 19,2025, Elapsed time: 0:03:18
+# Errors: 0, Warnings: 1

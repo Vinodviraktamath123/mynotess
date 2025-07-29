@@ -1,0 +1,141 @@
+# Reading pref.tcl
+cd {C:\Users\Vinod M\OneDrive\Desktop\New folder (2)\memory project\front door}
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:46:07 on Jan 19,2025
+# vlog -reportprogress 300 frontdoor.v 
+# -- Compiling module memory
+# 
+# Top level modules:
+# 	memory
+# End time: 13:46:07 on Jan 19,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:46:07 on Jan 19,2025
+# vlog -reportprogress 300 frontdoor_tb.v 
+# -- Compiling module memory
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 13:46:07 on Jan 19,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim tb "+testcase=CONSECUTIVE_WR_RD" 
+# Start time: 13:46:07 on Jan 19,2025
+# Loading work.tb
+# Loading work.memory
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$value$plusargs'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb File: frontdoor_tb.v Line: 33
+# testcase=CONSECUTIVE_WR_RD
+# ** Note: $finish    : frontdoor_tb.v(109)
+#    Time: 2095 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at frontdoor_tb.v line 109
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Users/Vinod M/OneDrive/Desktop/New folder (2)/memory project/front door/wave.do}
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:48:52 on Jan 19,2025
+# vlog -reportprogress 300 frontdoor.v 
+# -- Compiling module memory
+# 
+# Top level modules:
+# 	memory
+# End time: 13:48:52 on Jan 19,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:48:52 on Jan 19,2025
+# vlog -reportprogress 300 frontdoor_tb.v 
+# -- Compiling module memory
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 13:48:52 on Jan 19,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 13:48:54 on Jan 19,2025, Elapsed time: 0:02:47
+# Errors: 0, Warnings: 1
+# vsim tb "+testcase=CONSECUTIVE_WR_RD" 
+# Start time: 13:48:54 on Jan 19,2025
+# Loading work.tb
+# Loading work.memory
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$value$plusargs'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb File: frontdoor_tb.v Line: 33
+# testcase=CONSECUTIVE_WR_RD
+# ** Note: $finish    : frontdoor_tb.v(109)
+#    Time: 2095 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at frontdoor_tb.v line 109
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Users/Vinod M/OneDrive/Desktop/New folder (2)/memory project/front door/wave.do}
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:50:34 on Jan 19,2025
+# vlog -reportprogress 300 frontdoor.v 
+# -- Compiling module memory
+# 
+# Top level modules:
+# 	memory
+# End time: 13:50:34 on Jan 19,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:50:34 on Jan 19,2025
+# vlog -reportprogress 300 frontdoor_tb.v 
+# -- Compiling module memory
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 13:50:34 on Jan 19,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 13:50:36 on Jan 19,2025, Elapsed time: 0:01:42
+# Errors: 0, Warnings: 1
+# vsim tb "+testcase=CONSECUTIVE_WR_RD" 
+# Start time: 13:50:36 on Jan 19,2025
+# Loading work.tb
+# Loading work.memory
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$value$plusargs'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb File: frontdoor_tb.v Line: 33
+# testcase=CONSECUTIVE_WR_RD
+# ** Note: $finish    : frontdoor_tb.v(109)
+#    Time: 2095 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at frontdoor_tb.v line 109
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:52:04 on Jan 19,2025
+# vlog -reportprogress 300 frontdoor.v 
+# -- Compiling module memory
+# 
+# Top level modules:
+# 	memory
+# End time: 13:52:04 on Jan 19,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:52:04 on Jan 19,2025
+# vlog -reportprogress 300 frontdoor_tb.v 
+# -- Compiling module memory
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 13:52:05 on Jan 19,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# End time: 13:52:06 on Jan 19,2025, Elapsed time: 0:01:30
+# Errors: 0, Warnings: 1
+# vsim tb "+testcase=CONSECUTIVE_WR_RD" 
+# Start time: 13:52:06 on Jan 19,2025
+# Loading work.tb
+# Loading work.memory
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$value$plusargs'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb File: frontdoor_tb.v Line: 33
+# testcase=CONSECUTIVE_WR_RD
+# ** Note: $finish    : frontdoor_tb.v(109)
+#    Time: 2095 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at frontdoor_tb.v line 109
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Users/Vinod M/OneDrive/Desktop/New folder (2)/memory project/front door/wave.do}
+# End time: 13:52:44 on Jan 19,2025, Elapsed time: 0:00:38
+# Errors: 0, Warnings: 1
